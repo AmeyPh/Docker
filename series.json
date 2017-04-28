@@ -1,0 +1,20 @@
+{
+   "Series1" : {
+      "name" : "Game of Thrones",
+      "category" : "Period",
+      "channel" : "HBO",
+      "id": 1
+   },
+   "Series2" : {
+      "name" : "Friends",
+      "category" : "Comedy",
+      "channel" : "Star World",
+      "id": 2
+   },
+   "Series3" : {
+      "name" : "House of Cards",
+      "category" : "Politics",
+      "channel" : "Netflix",
+      "id": 3
+   }
+}

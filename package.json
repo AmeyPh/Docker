@@ -1,0 +1,13 @@
+{
+ "name": "SeriesILike",
+ "version": "1.0.0",
+ "description": "Docker",
+ "author": "Amey Phatak and Sanyukta Madan",
+ "main": "server.js",
+ "scripts": {
+ "start": "node server.js"
+ },
+ "dependencies": {
+ "express": "^4.13.3"
+ }
+}
